@@ -1,16 +1,18 @@
 #!/usr/bin/env python3
 
-str = 'X-DSPAM-Confidence: 0.8475'
+# str = 'X-DSPAM-Confidence: 0.8475'
+str = input("Test input: ")
 
 sppos = str.find(':')
 
-num = 0.0
+num = None
 
-if (sppos > -1) :
+if (sppos < 0) :
+    print('Invalid input')
+else :
     try :
-        num = float(str[sppos + 1:].strip())
+        num = float(str[sppos + 1:])
     except:
-        num = None
         print('Invalid float number')
 
 if (num is not None) :
