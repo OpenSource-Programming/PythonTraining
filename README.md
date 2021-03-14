@@ -11,7 +11,7 @@ Sample naming convention: mopen_py_helloworld.py
 Course Schedule can be found at:
 https://docs.google.com/spreadsheets/d/1qqJXKdHUu1Syf7gwHRelzDRD69HApw0FNI_y_JP5mUM/edit?usp=sharing
 
-Optional: Join our Facebook Group: https://www.facebook.com/groups/316704056008892
+Optional: Join our Facebook Group: https://tinyurl.com/OpenSourceprogramming4all
 
 PLEASE fill out the Google form at:
 https://docs.google.com/forms/d/e/1FAIpQLSdvQv6XBh56PcJOAPDxm-8fVCPLN9ZbjskRvuEyw_2zhHSyZQ/viewform
